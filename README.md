@@ -40,13 +40,6 @@ SO THAT my company can compete with other e-commerce companies"
 
 - run the 'node server.js' command to start the application in Terminal
 
-- in your browser go to location: <http://localhost:3001/>
-
-### How To Use
-
-- To add funds, type the Name of the transaction, the ammount, and press the add funds button.
-
-- to subtract funds, type the Name of the transaction, the ammount, and press the subtract funds button.
 
 ## Deployment Site
 
