@@ -20,7 +20,7 @@
 
 ## Description
 
-E-Commerce Back End is an application for interacting with the back end of an e-commerce site using Express.js API and Sequelize. 
+E-Commerce Back End is an ORM application for interacting with the back end of an e-commerce site using Express.js API and Sequelize to connect with a MySQL database. 
 
 ## Purpose
 
